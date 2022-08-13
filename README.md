@@ -8,5 +8,9 @@ Installed docker on system/locale.
 Run this in terminal.
 
 ```
-docker compose up -d
+# Start container with logs on terminal
+docker-compose up
+
+# Start container with no logs on terminal
+docker-compose up -d
 ```
