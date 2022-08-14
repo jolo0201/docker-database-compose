@@ -1,1 +1,2 @@
-mysql/* linguist-vendored
+mysql/* linguist-vendored=false
+mysql/* linguist-documentation=false
