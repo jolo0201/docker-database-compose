@@ -49,7 +49,5 @@ You can now check the running container by running this command:
 ```bash
 $ docker ps
 ```
-
 Or by viewing the Docker Desktop
-
 ![](docker.png)
