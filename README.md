@@ -52,4 +52,4 @@ $ docker ps
 
 Or by viewing the Docker Desktop
 
-![](img/docker.png)
+![](docker.png)
