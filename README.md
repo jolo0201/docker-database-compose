@@ -23,7 +23,7 @@ You may change the desired image/version of the database and the environment var
 and the port of the database instance:
 
 ```
- # <Port exposed (you can change this to have multiple instance)> : < MySQL Port running inside container>
+ # <Port exposed (you can change this to have multiple instance)> : < MySQL Port running inside container (DO NOT CHANGE THIS)>
  '3306:3306'
 ```
 
