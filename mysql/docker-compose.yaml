@@ -22,7 +22,7 @@ services:
     volumes:
       - my-db:/var/lib/mysql
       # SET sql_mode to none
-    command: mysqld --sql_mode="" --default-time-zone=+08:00
+    command: mysqld --sql_mode="" --default-time-zone=+08:00 --lower_case_table_names=1
 
 # Names our volume
 volumes:
